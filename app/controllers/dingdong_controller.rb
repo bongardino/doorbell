@@ -19,7 +19,7 @@ class DingdongController < ApplicationController
     @client ||= Twilio::REST::Client.new(ENV['ACCOUNT_SID'], ENV['AUTH_TOKEN'])
   end
 
-  def authenticate # to keep web crawlers from dinging the dong
+  def authenticate # keep web crawlers from dinging the dong
     unless request.headers['authorization'] == ENV['AUTH_HEADER']
       render plain: 'UNAUTHORIZED', status: :unauthorized
     end
