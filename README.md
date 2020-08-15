@@ -66,7 +66,7 @@ https://gist.github.com/bongardino/2a3f9aec5bae606a4cb4d42f9307e5a2
 ## Configure the PI
 edit `/etc/xdg/openbox/lxde-pi-rc.xml` - you're not supposed to but whatever we've already wandered far from 'best practices' 
 
-add this to the <keyboard> section 
+add this to the `<keyboard>` section
 ```
 <!-- <keyboard> -->
   <keybind key="C-S-9">
