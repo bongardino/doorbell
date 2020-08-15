@@ -27,7 +27,7 @@ jets generate controller Dingdong create
 ```
 patch the routes file 
  
-create an iam user with irresponsible permissions 
+create & use an aws user with irresponsible permissions 
 ```
 {
     "Version": "2012-10-17",
