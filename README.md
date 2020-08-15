@@ -63,7 +63,8 @@ create an iam user with irresponsible permissions
 Program the button 
 https://gist.github.com/bongardino/2a3f9aec5bae606a4cb4d42f9307e5a2 
 
-edit `/etc/xdg/openbox/lxde-pi-rc.xml` - you're not supposed to but whatever 
+## Configure the PI
+edit `/etc/xdg/openbox/lxde-pi-rc.xml` - you're not supposed to but whatever we've already wandered far from 'best practices' 
 
 add this to the <keyboard> section 
 ```
@@ -76,4 +77,6 @@ add this to the <keyboard> section
 <!-- </keyboard> -->
 ```
  
-`openbox --restart && openbox-lxde-pi --restart`
+`openbox --restart && openbox-lxde-pi --restart` 
+ 
+PUSH ZEE BUTTON
