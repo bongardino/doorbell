@@ -12,11 +12,11 @@ mostly I'm just procratinating. I really need to study.
  
  
 Basics:  
-https://www.twilio.com/blog/serverless-ruby-on-aws-lambda-with-the-jets-framework 
-https://www.twilio.com/docs/voice/quickstart/ruby 
+https://www.twilio.com/blog/serverless-ruby-on-aws-lambda-with-the-jets-framework  
+https://www.twilio.com/docs/voice/quickstart/ruby  
 
 Secrets:  
-https://rubyonjets.com/docs/env-files/ 
+https://rubyonjets.com/docs/env-files/  
 
 
 ## Webserver 
