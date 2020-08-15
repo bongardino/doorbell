@@ -7,7 +7,7 @@ class DingdongController < ApplicationController
     call = client.calls.create(
         to: ENV['PHONE_MIKE'],
         from: ENV['PHONE_TWILIO'],
-        url: "http://demo.twilio.com/docs/voice.xml")
+        url: "https://handler.twilio.com/twiml/EH9d02e231dc8569adccb70bbb5e84015c") #twiml-bins/hangup
     call.to
 
     render plain: 'DINGDONG', status: :ok
