@@ -71,7 +71,7 @@ add this to the `<keyboard>` section
 <!-- <keyboard> -->
   <keybind key="C-S-9">
     <action name="Execute"/>
-  <command>bash -c "curl -SivkL --header "authorization: $auth_header" $api-endpoint/dev/dingdong</command>
+  <command>bash -c "curl -SivkL --header 'authorization: $auth_header' $api-endpoint/dev/dingdong"</command>
     </action>
   </keybind>
 <!-- </keyboard> -->
