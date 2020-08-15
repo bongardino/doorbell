@@ -3,7 +3,7 @@
 I don't always hear the doorbell but Alexis does.
 So I did the reasonable thing: 
  
-created a jets / lambda webserver that calls me, which is triggered by a very large button hooked up to a raspberry pi, which Alexis then pushes when the actual doorbell rings.  
+created a jets / lambda webserver, triggered by a very large button hooked up to a raspberry pi, which Alexis then pushes when the actual doorbell rings to make my phone ring.  
  
 ![alexis-not-pictured](topography.png)
  
