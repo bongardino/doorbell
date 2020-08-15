@@ -5,17 +5,17 @@ So I did the reasonable thing:
  
 created a jets / lambda webserver that calls me, which is triggered by a very large button hooked up to a raspberry pi, which Alexis then pushes when the actual doorbell rings.  
  
-![very-serious-button](topography.png)
+![alexis-not-pictured](topography.png)
  
 mostly I'm just procratinating. I really need to study.
  
  
  
-Basics: 
+Basics:  
 https://www.twilio.com/blog/serverless-ruby-on-aws-lambda-with-the-jets-framework 
 https://www.twilio.com/docs/voice/quickstart/ruby 
 
-Secrets: 
+Secrets:  
 https://rubyonjets.com/docs/env-files/ 
 
 

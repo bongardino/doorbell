@@ -2,7 +2,9 @@
 .bundle
 .byebug_history
 .DS_Store
-.env*
+.env.development
+.env.test
+.env.local
 /node_modules
 /public/packs
 /public/packs-test
