@@ -5,7 +5,7 @@ So I did the reasonable thing:
  
 created a jets / lambda webserver that calls me, which is triggered by a very large button hooked up to a raspberry pi, which Alexis then pushes when the actual doorbell rings.  
  
-![very-serious-button](http://gregslab.com/media/vsb_gallery-4233.jpg)
+![very-serious-button](topography.png)
  
 mostly I'm just procratinating. I really need to study.
  
@@ -79,4 +79,4 @@ add this to the `<keyboard>` section
  
 `openbox --restart && openbox-lxde-pi --restart` 
  
-PUSH ZEE BUTTON
+# PUSH ZEE BUTTON
