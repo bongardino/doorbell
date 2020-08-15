@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem "jets"
-
+gem "twilio-ruby"
 
 gem "dynomite"
 

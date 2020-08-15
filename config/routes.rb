@@ -1,4 +1,5 @@
 Jets.application.routes.draw do
+  get 'dingdong', to: 'dingdong#create'
   root "jets/public#show"
 
   # The jets/public#show controller can serve static utf8 content out of the public folder.
